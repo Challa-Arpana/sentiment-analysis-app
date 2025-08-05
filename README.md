@@ -68,6 +68,12 @@ Test the app with any custom text, or try these examples:
 
 ---
 
+## 📸 Demo GIF
+
+![Demo GIF](https://raw.githubusercontent.com/Challa-Arpana/sentiment-analysis-app/master/demo.gif)
+
+---
+
 ## 🤖 Model Details
 
 We use the [`cardiffnlp/twitter-roberta-base-sentiment`](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment) model from Hugging Face. It classifies input into one of three sentiments:
