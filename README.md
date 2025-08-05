@@ -1,6 +1,12 @@
 # Real-time Sentiment Analysis Web App
 
-This is a real-time sentiment analysis web application built with **Streamlit** using the **RoBERTa** model from Hugging Face. It predicts whether a given sentence is **Positive**, **Neutral**, or **Negative**, and displays results with **confidence scores**, **bar charts**, and **emojis** for a friendlier experience.
+This project is a real-time sentiment analysis app using the **RoBERTa model** from Hugging Face Transformers.  
+Built with **Python**, **Streamlit**, and **PyTorch**, it predicts the sentiment of any text input and visualizes the result using emoji feedback and model confidence scores.
+
+---
+
+## 🌐 Live Demo
+➡️ [Try the App Here](https://challa-sentiment-analyzer.streamlit.app/) 
 
 ---
 
@@ -10,6 +16,18 @@ This is a real-time sentiment analysis web application built with **Streamlit** 
 - 📊 Confidence bar chart visualization  
 - 😊 Friendly feedback using emojis and messages  
 - 💬 Easy-to-use Streamlit interface  
+
+---
+
+## 🧪 Try These Example Sentences:
+
+Test the app with any custom text, or try these examples:
+
+- “I love it here! 😍 This place is magical.” ✅  
+- “I’m so disappointed in how this turned out.” ❌  
+- “I went to the store and bought some milk.” 😐  
+- “Ugh... that was such a waste of time. 😤”  
+- “You always support me and I’m grateful.” 🙏
 
 ---
 
